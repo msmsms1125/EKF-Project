@@ -1,0 +1,22 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.mex*
+codegen/
+slprj/
+
+# Reproducible large experiment cache
+results/ekf_case_results.mat
+
+# Local build and inspection artifacts
+tmp/
+*.inspect.ndjson
+
+# Office temporary files
+~$*.pptx
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
